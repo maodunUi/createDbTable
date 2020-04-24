@@ -1,0 +1,15 @@
+## db.setting文件
+
+url = jdbc:mysql://39.107.247.82:3306/youqi?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT&autoReconnect=true
+user = root
+pass = &mjfpTLRoN8xTkWLEO$TgZZA#VLRCm
+
+## 可选配置
+# 是否在日志中显示执行的SQL
+showSql = true
+# 是否格式化显示的SQL
+formatSql = false
+# 是否显示SQL参数
+showParams = true
+# 打印SQL的日志等级，默认debug，可以是info、warn、error
+sqlLevel = debug
